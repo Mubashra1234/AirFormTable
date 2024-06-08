@@ -1,0 +1,54 @@
+@font-face {
+    font-family: 'Aeonik TRIAL';
+    src: url('AeonikTRIAL-RegularItalic.woff2') format('woff2'),
+        url('AeonikTRIAL-RegularItalic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Aeonik TRIAL';
+    src: url('AeonikTRIAL-Light.woff2') format('woff2'),
+        url('AeonikTRIAL-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Aeonik TRIAL';
+    src: url('AeonikTRIAL-Bold.woff2') format('woff2'),
+        url('AeonikTRIAL-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Aeonik TRIAL';
+    src: url('AeonikTRIAL-BoldItalic.woff2') format('woff2'),
+        url('AeonikTRIAL-BoldItalic.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Aeonik TRIAL';
+    src: url('AeonikTRIAL-Regular.woff2') format('woff2'),
+        url('AeonikTRIAL-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Aeonik TRIAL';
+    src: url('AeonikTRIAL-LightItalic.woff2') format('woff2'),
+        url('AeonikTRIAL-LightItalic.woff') format('woff');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
